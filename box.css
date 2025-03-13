@@ -1,0 +1,37 @@
+.first{
+    height:550px;
+    width: 520px;
+    border:10px solid;
+    justfy-content:space-evenly;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    
+    
+}
+.main {
+     height: 110px;
+    width:160px;
+    border:10px solid;
+    border-radius: 10px;
+    align-content:center;
+    border-color: rgba(8, 51, 2, 0.685);
+    background-color: rgb(0, 223, 19);
+    display:flex;
+}
+.box1{
+   width:500px;
+   
+}
+.box2{
+    width:235px;
+    height:250px;
+    
+}
+.box3{
+    width:240px;
+     height:250px;
+}
+.box4{
+    width:500px;
+   }
